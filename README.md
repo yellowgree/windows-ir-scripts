@@ -52,7 +52,7 @@ Windows 환경에서 **포렌식 수집 & 초기 사고 대응**을 자동화하
 
 ```powershell
 # 관리자 권한 PowerShell 실행 후
-git clone https://github.com/YOUR-ID/windows-ir-toolkit.git
+git clone https://github.com/yellowgree/windows-ir-scripts.git
 cd windows-ir-toolkit
 
 # 스크립트 실행
