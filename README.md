@@ -56,4 +56,4 @@ git clone https://github.com/yellowgree/windows-ir-scripts.git
 cd windows-ir-toolkit
 
 # 스크립트 실행
-.\Collect-WinIR.ps1
+.\IR_Collection.ps1
